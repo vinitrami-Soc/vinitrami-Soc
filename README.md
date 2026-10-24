@@ -9,7 +9,7 @@ I've just finished my MSc at Portsmouth, where my dissertation on phishing
 detection became PhishHawk. I'm based in London and open to security analyst,
 SOC, VAPT and DFIR roles across the UK.
 
-[Portfolio](https://vinitrami-soc.github.io) ·
+[Portfolio](https://www.vinitrami.co.in) ·
 [LinkedIn](https://www.linkedin.com/in/vinitrami-002855228) ·
 [Medium](https://medium.com/@ramivinit) ·
 [Email](mailto:ramivinit@gmail.com)
